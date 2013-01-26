@@ -1,5 +1,8 @@
 .classpath
 .project
 .settings/
-log4j.log
+*.log
 target/
+release.properties
+pom.xml.releaseBackup
+git.properties

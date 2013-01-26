@@ -1,29 +1,35 @@
-Crawljax
+Crawljax [![Build Status](https://travis-ci.org/crawljax/crawljax.png)](https://travis-ci.org/crawljax/crawljax)
 ========
 
 Crawling Ajax-based Web Applications 
 ------------------------------------
 
-For more project info visit the [Crawljax site](http://crawljax.github.com).
+For more project info visit the [Crawljax website](http://crawljax.com).
 
-You can contact the Crawljax team by [joining the mailinglist](http://groups.google.com/group/crawljax) or [using the issue tracker](https://github.com/crawljax/crawljax/issues)
 
-You can find the [getting started guide](https://github.com/crawljax/crawljax/wiki/Getting-started) in our [project wiki](https://github.com/crawljax/crawljax/wiki/). 
+Documentation
+-------------
 
-[![Build Status](https://travis-ci.org/crawljax/crawljax.png)](https://travis-ci.org/crawljax/crawljax)
+You can find more technical documentation in our [project wiki](https://github.com/crawljax/crawljax/wiki/). 
+
+
+Community
+---------
+
+Keep track of development and community news.
+
+* Follow [@crawljax](https://twitter.com/crawljax) on Twitter.
+* Read the Crawljax [Blog](http://crawljax.com/).
+* Need a new feature or bug report? [Use the issue tracker](https://github.com/crawljax/crawljax/issues).
+* Have a question that's not a feature request or bug report? Ask on the [mailing list](https://groups.google.com/group/crawljax).
 
 License
 -------
 
 This project is licensed under the ["Apache License, Version 2.0"](https://github.com/crawljax/crawljax/blob/master/LICENSE).
 
-Maven
------
-To include Crawljax in your project, you can declare it as a Maven dependency.
+Changelog
+---------
 
-	<dependency>
-    	<groupId>com.crawljax</groupId>
-	    <artifactId>crawljax</artifactId>
-    	<version>2.0</version>
-	</dependency>
+Detailed change history is avaialbe in our [changelog](https://github.com/crawljax/crawljax/blob/master/CHANGELOG.md).
 

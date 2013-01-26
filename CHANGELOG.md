@@ -1,3 +1,16 @@
+## [Version 2.2](https://github.com/crawljax/crawljax/issues?milestone=2&state=closed)
+
+* [View closed issues](https://github.com/crawljax/crawljax/issues?milestone=2&page=1&state=closed)
+* [View the full diff](https://github.com/crawljax/crawljax/compare/crawljax-2.1...crawljax-2.2)
+
+
+## [Version 2.1](https://github.com/crawljax/crawljax/issues?milestone=1&state=closed)
+
+### Changes and Bug fixes: 
+* [View closed issues](https://github.com/crawljax/crawljax/issues?milestone=1&page=1&state=closed)
+* [View the full diff](https://github.com/crawljax/crawljax/compare/crawljax-2.0...crawljax-2.1)
+
+
 ## Version 2.0
 ### New features:
 * Support for concurrent multi-browser crawling. The number of browsers can be configured using the ThreadConfiguration API.
